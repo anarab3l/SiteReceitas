@@ -1,1 +1,1 @@
-alert (anamari)  
+alert (nomeDaDiva) 
