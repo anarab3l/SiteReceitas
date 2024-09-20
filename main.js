@@ -1,2 +1,1 @@
-alert (nomeDaDiva) 
-prompt (AnaeMari)
+alert ('ANA E MARI') 
