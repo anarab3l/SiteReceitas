@@ -1,1 +1,2 @@
 alert (nomeDaDiva) 
+prompt (AnaeMari)
