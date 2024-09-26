@@ -8,7 +8,7 @@ function areaQuadrado(lado){
 }
 let numero=parseInt(prompt('numero'));
 console.log(areaQuadrado('numero'));
-let media=function(1+2+3/3){
+let media=function(1,2,3**2){
     return;
 }
 document.write('cite tres numeros');
