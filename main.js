@@ -11,4 +11,4 @@ console.log(areaQuadrado('numero'));
 let media=function(1+2+3/3){
     return;
 }
-document.write(cite tres numeros);
+document.write('cite tres numeros');
