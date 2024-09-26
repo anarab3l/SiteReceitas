@@ -6,8 +6,8 @@ console.log(soma(1,2));
 function areaQuadrado(lado){
     return lado**2;
 }
-console.log(areaQuadrado(6));
 let numero=parseInt(prompt('numero'));
+console.log(areaQuadrado('numero'));
 let media=function(){
     return;
 }
