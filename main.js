@@ -26,7 +26,7 @@
 // console.log(estados[index]);
 // }
 let idade=15;
-if(idade<17){
+if(idade>17){
 console.log('pode dirigir')
 }
 else{
