@@ -4,13 +4,7 @@
 // }
 // console.log(soma(1,2));
 // function areaQuadrado(lado){
-//     return lado**2;
-// }
-// let numero=parseInt(prompt('numero'));
-// console.log(areaQuadrado('numero'));
-// let media=function(1,2,3**2){
-//     return;
-// }
+//     return lado**2;}
 // let numero1=parseInt(prompt('Qual o número 1?'));
 // let numero2=parseInt(prompt('Qual o número 2?'));
 // let numero3=parseInt(prompt('Qual o número 3?'));
