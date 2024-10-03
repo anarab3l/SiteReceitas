@@ -11,4 +11,10 @@ console.log(areaQuadrado('numero'));
 let media=function(1,2,3**2){
     return;
 }
-document.write('cite tres numeros');
+let numero1=parseInt(prompt('Qual o número 1?'));
+let numero2=parseInt(prompt('Qual o número 2?'));
+let numero3=parseInt(prompt('Qual o número 3?'));
+function media(x,y,z){
+    return (x,y,z)/3;
+}
+document.write (media(numero1,numero2,numero3));
